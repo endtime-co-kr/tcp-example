@@ -1,0 +1,15 @@
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.csproj.AssemblyReference.cache
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.AssemblyInfoInputs.cache
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.AssemblyInfo.cs
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.csproj.CoreCompileInputs.cache
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\bin\Debug\net7.0\TcpClientExample.exe
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\bin\Debug\net7.0\TcpClientExample.deps.json
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\bin\Debug\net7.0\TcpClientExample.runtimeconfig.json
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\bin\Debug\net7.0\TcpClientExample.dll
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\bin\Debug\net7.0\TcpClientExample.pdb
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.dll
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\refint\TcpClientExample.dll
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.pdb
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\TcpClientExample.genruntimeconfig.cache
+D:\Workspace\SampleCode\EndTime\TcpClientExample\TcpClientExample\obj\Debug\net7.0\ref\TcpClientExample.dll
